@@ -29,7 +29,7 @@ I specialize in developing efficient and scalable technological solutions that o
 
 I'm always learning, sharing knowledge, and solving complex problems. I enjoy collaborating in dynamic teams and exploring new opportunities in tech.
 
-I’m currently working as a Fullstack Developer. If you're working on a VTEX project or Shopify, I’d be happy to help. 🫡
+I’m currently working as a Success Engineer at Salesforce, Tableau Specialist. If you're working on a VTEX project or Shopify or if you want help with Tableau, I’d be happy to help. 🫡
 
 ## Follow/Contact me on 👀:
 
